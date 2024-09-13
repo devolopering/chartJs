@@ -15,7 +15,7 @@ export const data = {
         tension: 0.2,
         borderColor: "#8b5cf6",
         backgroundColor: "#ede9fe",
-        data: [20, 50, 40, 15, 20, 30, 17],
+        data: [10, 59, 40, 15, 20, 30, 17],
       },
     ],
   };
